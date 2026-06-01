@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  /* Colores principales */
+  --color-primary: #198754;
+  --color-secondary: #4CAF50;
+  --color-accent: #FD7E14;
+
+  /* Fondos */
+  --color-bg: #F8F9FA;
+  --color-surface: #FFFFFF;
+  --color-soft: #D1E7DD;
+
+  /* Textos */
+  --color-text: #212529;
+  --color-text-muted: #6C757D;
+
+  /* Bordes */
+  --color-border: #DEE2E6;
+
+  /* Sombras */
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.08);
+  --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.12);
+
+  /* Transiciones */
+  --transition: all 0.3s ease;
+}
+
